@@ -1,0 +1,5 @@
+#%%
+import openai
+import os
+
+# %%
